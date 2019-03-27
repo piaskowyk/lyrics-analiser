@@ -1,0 +1,488 @@
+Count song: 22
+Count Artist: 5
+Count all Words: 3427
+Unique words: 962
+Unique lyrics: 28,0712%
+Repeated lyrics: 71,9288%
+Average words per song: 155,7727
+Average unique words per song: 43,72727
+Most repeated artist: 
+1] Boys - 50,00946%
+2] Marek Kondrat & Marlena Drozdowska - 50%
+3] Defis - 45,68003%
+4] Akcent(pl) - 44,59459%
+5] Weekend - 34,51129%
+How song's word all involve in other song's word: 0/22 ( 0% )
+Average worsd involve in other song: 66,47385%
+Most repeted words
+1) nie - 149
+2) to - 87
+3) i - 75
+4) w - 53
+5) ja - 49
+6) się - 48
+7) mnie - 47
+8) na - 40
+9) ci - 39
+10) cię - 38
+11) ty - 36
+12) z - 34
+13) co - 33
+14) tylko - 33
+15) że - 32
+16) jej - 31
+17) o - 30
+18) oczy - 29
+19) za - 28
+20) karolina - 28
+21) jeden - 26
+22) tak - 26
+23) jak - 24
+24) jest - 23
+25) jesteś - 23
+26) do - 20
+27) serce - 20
+28) kocham - 19
+29) mi - 18
+30) gest - 18
+Song with most repeated words: 
+1)
+Artist: Weekend
+Title: Karolina
+All words: 214
+Unique words: 44
+Unique lyrics: 20,56075%
+Repeated lyrics: 79,43925%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 37/44 ( 84,09091% )
+1] to - 30
+2] karolina - 28
+3] co - 14
+4] za - 14
+5] dziewczyna - 14
+6] słodka - 7
+7] niczym - 7
+8] miód - 7
+9] jej - 7
+10] piegi - 7
+
+2)
+Artist: Defis
+Title: Wciąż o Tobie mam sny
+All words: 194
+Unique words: 56
+Unique lyrics: 28,86598%
+Repeated lyrics: 71,13403%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 43/56 ( 76,78571% )
+1] i - 9
+2] się - 8
+3] zasnąć - 8
+4] chcę - 8
+5] tylko - 7
+6] ja - 7
+7] nie - 7
+8] gdzie - 7
+9] wciąż - 6
+10] o - 6
+
+3)
+Artist: Weekend
+Title: Dałem Ci kwiaty
+All words: 214
+Unique words: 66
+Unique lyrics: 30,84112%
+Repeated lyrics: 69,15888%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 53/66 ( 80,30303% )
+1] nie - 26
+2] dałem - 6
+3] ci - 6
+4] pragnę - 6
+5] tylko - 6
+6] byś - 6
+7] jedno - 6
+8] ref - 5
+9] wiedziałaże - 5
+10] już - 5
+
+4)
+Artist: Weekend
+Title: Każda noc i każdego dnia
+All words: 155
+Unique words: 50
+Unique lyrics: 32,25806%
+Repeated lyrics: 67,74194%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 42/50 ( 84% )
+1] cię - 11
+2] każdą - 10
+3] noc - 10
+4] i - 10
+5] ty - 6
+6] ref - 5
+7] każdego - 5
+8] dniabędę - 5
+9] podjadał - 5
+10] a - 5
+
+5)
+Artist: Defis
+Title: Jeden gest
+All words: 209
+Unique words: 71
+Unique lyrics: 33,97129%
+Repeated lyrics: 66,02871%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 41/71 ( 57,74648% )
+1] nie - 25
+2] jeden - 24
+3] gest - 18
+4] jest - 7
+5] to - 7
+6] marzeniem - 6
+7] moim - 6
+8] gesti - 6
+9] no - 6
+10] zobacz - 6
+
+6)
+Artist: Boys
+Title: Za twe oczy zielone
+All words: 129
+Unique words: 48
+Unique lyrics: 37,2093%
+Repeated lyrics: 62,7907%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 33/48 ( 68,75% )
+1] oczy - 11
+2] twe - 11
+3] swe - 9
+4] zieloneuśmiech - 8
+5] zwykły - 8
+6] codziennyoddałbym - 6
+7] ci - 6
+8] najdroższaserce - 6
+9] serce - 6
+10] gdzie - 3
+
+7)
+Artist: Defis
+Title: Czy Ty weźmiesz ze mną ślub
+All words: 241
+Unique words: 94
+Unique lyrics: 39,00415%
+Repeated lyrics: 60,99585%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 56/94 ( 59,57447% )
+1] nie - 15
+2] że - 12
+3] czy - 8
+4] to - 8
+5] ci - 7
+6] ty - 7
+7] weźmiesz - 7
+8] ze - 7
+9] mną - 7
+10] ślub - 7
+
+8)
+Artist: Weekend
+Title: Masz co chciałaś
+All words: 198
+Unique words: 80
+Unique lyrics: 40,40404%
+Repeated lyrics: 59,59596%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 56/80 ( 70% )
+1] mnie - 13
+2] się - 9
+3] nie - 8
+4] co - 8
+5] masz - 6
+6] chciałaś - 6
+7] ja - 5
+8] i - 4
+9] dla - 4
+10] zapomnij - 4
+
+9)
+Artist: Defis
+Title: To złamane serce
+All words: 184
+Unique words: 77
+Unique lyrics: 41,84782%
+Repeated lyrics: 58,15218%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 46/77 ( 59,74026% )
+1] nie - 31
+2] nigdy - 9
+3] już - 8
+4] serce - 7
+5] ile - 6
+6] to - 6
+7] złamane - 6
+8] pokocha - 6
+9] więcej - 6
+10] wie - 5
+
+10)
+Artist: Boys
+Title: Nie płacz
+All words: 133
+Unique words: 57
+Unique lyrics: 42,85714%
+Repeated lyrics: 57,14286%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 45/57 ( 78,94736% )
+1] jeszcze - 6
+2] ja - 6
+3] iść - 6
+4] liść - 6
+5] jak - 5
+6] nam - 4
+7] nie - 3
+8] płacz - 3
+9] bo - 3
+10] do - 3
+
+11)
+Artist: Weekend
+Title: Kocham Jej oczy
+All words: 115
+Unique words: 50
+Unique lyrics: 43,47826%
+Repeated lyrics: 56,52174%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 33/50 ( 66% )
+1] jej - 12
+2] mnie - 11
+3] oczy - 7
+4] kocham - 5
+5] na - 4
+6] one - 3
+7] przenikajązłociste - 3
+8] piegi - 3
+9] twarzy - 3
+10] jejlubię - 3
+
+12)
+Artist: Weekend
+Title: Ona tańczy dla mnie
+All words: 129
+Unique words: 62
+Unique lyrics: 48,06202%
+Repeated lyrics: 51,93798%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 41/62 ( 66,12904% )
+1] jej - 9
+2] ja - 5
+3] pragnę - 5
+4] ją - 4
+5] dla - 4
+6] to - 4
+7] w - 4
+8] 2x - 3
+9] uwielbiam - 3
+10] ona - 3
+
+13)
+Artist: Defis
+Title: Niespotykany kolor
+All words: 142
+Unique words: 69
+Unique lyrics: 48,59155%
+Repeated lyrics: 51,40845%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 37/69 ( 53,62319% )
+1] kolor - 6
+2] oczu - 6
+3] nie - 6
+4] takie - 6
+5] nietypowe - 6
+6] niespotykany - 5
+7] maszaż - 5
+8] aż - 5
+9] oderwać - 5
+10] wzroku - 5
+
+14)
+Artist: Marek Kondrat & Marlena Drozdowska
+Title: Mydełko Fa
+All words: 214
+Unique words: 107
+Unique lyrics: 50%
+Repeated lyrics: 50%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 47/107 ( 43,92523% )
+1] i - 18
+2] ja - 13
+3] ty - 11
+4] na - 9
+5] z - 6
+6] mydełko - 6
+7] się - 5
+8] siabada - 5
+9] fa - 5
+10] w - 4
+
+15)
+Artist: Boys
+Title: Miłość
+All words: 133
+Unique words: 68
+Unique lyrics: 51,12782%
+Repeated lyrics: 48,87218%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 48/68 ( 70,58823% )
+1] to - 9
+2] miłość - 6
+3] ci - 6
+4] nie - 5
+5] się - 3
+6] tylko - 3
+7] pusty - 3
+8] tekstto - 3
+9] życie - 3
+10] pisane - 3
+
+16)
+Artist: Boys
+Title: Kocham Cię
+All words: 111
+Unique words: 57
+Unique lyrics: 51,35135%
+Repeated lyrics: 48,64865%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 40/57 ( 70,17544% )
+1] cię - 8
+2] (kocham - 6
+3] z - 5
+4] moim - 4
+5] do - 4
+6] dziś - 4
+7] jesteś - 2
+8] dla - 2
+9] mnie - 2
+10] talizmanemjesteś - 2
+
+17)
+Artist: Boys
+Title: Szalona
+All words: 99
+Unique words: 51
+Unique lyrics: 51,51515%
+Repeated lyrics: 48,48485%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 34/51 ( 66,66666% )
+1] jesteś - 12
+2] szalona - 10
+3] mówię - 8
+4] ci - 6
+5] i - 4
+6] jak - 2
+7] się - 2
+8] śmiałaś - 2
+9] zawsze - 2
+10] no - 2
+
+18)
+Artist: Akcent(pl)
+Title: Przez Twe oczy zielone
+All words: 148
+Unique words: 82
+Unique lyrics: 55,40541%
+Repeated lyrics: 44,59459%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 52/82 ( 63,41463% )
+1] oczy - 6
+2] zakochać - 6
+3] miłość - 4
+4] cały - 4
+5] serce - 4
+6] ci - 4
+7] mogę - 3
+8] nie - 3
+9] w - 3
+10] przez - 3
+
+19)
+Artist: Weekend
+Title: Ta Kalina
+All words: 67
+Unique words: 39
+Unique lyrics: 58,20895%
+Repeated lyrics: 41,79105%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 26/39 ( 66,66666% )
+1] na - 5
+2] to - 3
+3] kalina - 3
+4] tak - 3
+5] imię - 3
+6] ona - 3
+7] mata - 3
+8] dziewczyna - 3
+9] najpiękniejsza - 3
+10] jaką - 3
+
+20)
+Artist: Weekend
+Title: Remanent
+All words: 167
+Unique words: 98
+Unique lyrics: 58,68263%
+Repeated lyrics: 41,31737%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 57/98 ( 58,16327% )
+1] się - 8
+2] wiem - 6
+3] w - 5
+4] nie - 5
+5] mnie - 4
+6] za - 4
+7] stało - 4
+8] samo - 4
+9] co - 3
+10] a - 3
+
+21)
+Artist: Defis
+Title: Lek Na Życie
+All words: 126
+Unique words: 82
+Unique lyrics: 65,07937%
+Repeated lyrics: 34,92063%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 53/82 ( 64,63415% )
+1] na - 6
+2] jest - 5
+3] nie - 4
+4] to - 4
+5] a - 3
+6] czy - 3
+7] z - 3
+8] zatańczyć - 3
+9] każdy - 2
+10] co - 2
+
+22)
+Artist: Weekend
+Title: Najsmutniejsze w życiu dni
+All words: 105
+Unique words: 80
+Unique lyrics: 76,19048%
+Repeated lyrics: 23,80952%
+Most repeated words in this song: 
+Word used in other song/per all unie wordd in song: 42/80 ( 52,5% )
+1] w - 6
+2] nie - 4
+3] twoje - 3
+4] tak - 3
+5] juz - 3
+6] już - 2
+7] ciągle - 2
+8] wiesz - 2
+9] bez - 2
+10] i - 2
+
